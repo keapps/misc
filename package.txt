@@ -48,3 +48,4 @@ com.ifttt.ifttt
 com.clearchannel.iheartradio.controller
 ca.radioplayer.android
 com.splashtop.sos
+com.notifica.clearall
