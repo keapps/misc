@@ -3,7 +3,7 @@ Ookla Speed Test
 Jango Radio
 MX Player 1.9.11
 KE Updater 
-STB Emulator
+STB Emulator pro 1.1.0.3
 VLC Media Player 2.5
 Force-Stop It! 1.3
 AptoideTV 3.2.5
