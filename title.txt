@@ -22,7 +22,7 @@ Pushbullet
 Android tips and tricks
 Torrent TV
 HPE Network Capture
-MX Player Codec
+MX Player Codec 1.9.9
 APK Time 1.5
 Send Anywhere 7.11.30
 Aida 64
