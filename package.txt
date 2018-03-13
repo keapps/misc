@@ -50,4 +50,3 @@ ca.radioplayer.android
 com.splashtop.sos
 com.notifica.clearall
 com.spotify.music
-com.iint3liig3ncii.droidpowerhouse
