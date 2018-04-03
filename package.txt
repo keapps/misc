@@ -1,1 +1,2 @@
 com.teamviewer.quicksupport.market
+com.teamviewer.quicksupport.addon.aosp
